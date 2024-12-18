@@ -1,0 +1,66 @@
+Course Outline
+
+Section 1: Introduction to Supabase
+Comparison with Firebase
+Supabase Architecture
+
+Session 2: Setting Up Supabase
+Creating a Supabase Project
+Introduction to Supabase Dashboard
+Overview of Supabase CLI and SDK
+
+Session 3: Supabase Database
+Introduction to PostgreSQL
+Creating and Managing Tables
+Relational Data, Primary Keys, and Foreign Keys
+
+Session 4: API Management with Supabase
+Introduction to RESTful APIs
+Generating and Managing APIs
+Understanding API Security and Role-Based Access Control (RBAC)
+
+Session 5: Authentication with Supabase
+Introduction to Supabase Auth
+Implementing Authentication
+Social Logins (Google, GitHub, etc.)
+
+Session 6: User Management
+Managing User Roles and Permissions
+Integrating Supabase with Frontend Frameworks
+Implementing User Profiles
+
+Session 7: Regex in JavaScript
+Introduction to Regular Expressions
+Basic Components of Regex
+Capturing Groups and Alternation
+
+Session 8: Storage with Supabase
+Introduction to Supabase Storage
+Uploading Files to Supabase Storage
+Downloading and Managing Files
+
+Session 9: Integrating Supabase Storage
+Connecting Supabase Storage with Frontend
+Best Practices for Managing Large Files
+Real-World Use Cases
+
+Session 10: Real-time Features
+Introduction to Supabase Realtime
+Implementing Real-time Subscriptions
+Real-World Use Cases
+
+Session 11: Supabase Functions (Edge Functions)
+Introduction to Supabase Functions
+Create and Deploy Serverless Functions
+Triggering Functions from Database Changes
+
+Session 12: Understanding and Implementing Triggers in Supabase
+Introduction to Database Triggers
+Creating Triggers in Supabase
+Use Cases and Best Practices
+
+Session 13: Software Development Cycle
+ALL Pre-Coding Stages (analysis, planning, UMLs, Prototyping and Wireframing, Documentations, etc.)
+
+Section 14-24: Production of 3 applications (mobile, web and desktop) by the students themselves
+Dealing with students as a client from the beginning of each student’s project until the project is completed, delivered, and tested.
